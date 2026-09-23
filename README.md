@@ -1,10 +1,4 @@
-### Hi, I'm Nexyie 👋
-
-I build things. Yes, things.
-
-- Currently working on cool useful (I hope so) projects
-- Always learning something new
-  
+### Hi, I am
 ```
  ███╗   ██╗███████╗██╗  ██╗██╗   ██╗██╗███████╗
  ████╗  ██║██╔════╝╚██╗██╔╝╚██╗ ██╔╝██║██╔════╝
@@ -13,6 +7,11 @@ I build things. Yes, things.
  ██║ ╚████║███████╗██╔╝ ██╗   ██║   ██║███████╗
  ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝
 ```
+I build things. Yes, things.
+
+- Currently working on cool useful (I hope so) projects
+- Always learning something new
+  
 
 ---
 
