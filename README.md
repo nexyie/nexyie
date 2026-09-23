@@ -4,7 +4,7 @@ I build things. Yes, things.
 
 - Currently working on cool useful (I hope so) projects
 - Always learning something new
-- 
+  
  ███╗   ██╗███████╗██╗  ██╗██╗   ██╗██╗███████╗
  ████╗  ██║██╔════╝╚██╗██╔╝╚██╗ ██╔╝██║██╔════╝
  ██╔██╗ ██║█████╗   ╚███╔╝  ╚████╔╝ ██║█████╗  
